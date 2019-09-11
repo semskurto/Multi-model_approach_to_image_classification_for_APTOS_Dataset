@@ -11,7 +11,7 @@ https://arxiv.org/pdf/1905.11946.pdf
 * STEP-2:  
 TARGET:::Images have five possible ratings, 0,1,2,3,4.  
 
-Estimation was performed with the trained algorithm.  
+Predicted was performed with the trained algorithm.  
   
 Result:  
 Stability was increased by replacing batch normalization with group normalization previously in "effnet".  

@@ -9,6 +9,7 @@ https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html
 https://arxiv.org/pdf/1905.11946.pdf  
   
 * STEP-2:  
+Used kernels(APTOS-OOK)  
 TARGET:::Images have five possible ratings, 0,1,2,3,4.  
 
 Predicted was performed with the trained algorithm.  

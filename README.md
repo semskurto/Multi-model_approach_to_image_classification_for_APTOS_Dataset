@@ -1,14 +1,14 @@
 # APTOS
 https://www.kaggle.com/c/aptos2019-blindness-detection  
 
-* STEP-1: *  
+* STEP-1:  
 Used kernels(APTOS-01a,01b,01c,01d)   
 +The data set was prepared and determined.  
 +ML algorithm was trained (effnet)  
 https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html  
 https://arxiv.org/pdf/1905.11946.pdf  
   
-* STEP-2:  *
+* STEP-2:  
 TARGET:::Images have five possible ratings, 0,1,2,3,4.  
 
 Estimation was performed with the trained algorithm.  

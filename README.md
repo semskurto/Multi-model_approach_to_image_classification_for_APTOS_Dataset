@@ -13,6 +13,8 @@ TARGET:::Images have five possible ratings, 0,1,2,3,4.
 
 Predicted was performed with the trained algorithm.  
   
+  ![View](https://github.com/semskurto/APTOS/blob/master/aptosReadme.png)
+  
 Result:  
 Stability was increased by replacing batch normalization with group normalization previously in "effnet".  
 https://arxiv.org/pdf/1803.08494.pdf  

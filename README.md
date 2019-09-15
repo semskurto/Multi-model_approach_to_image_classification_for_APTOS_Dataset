@@ -23,4 +23,4 @@ https://arxiv.org/pdf/1803.08494.pdf
 Training results are not stable at the desired level.  
 A new methodology is currently being studied to reduce the error rate.  
 
-and new kernel COMING SOON...
+and NOW new kernel === [aptos_02a ,aptos_02b, aptos_ook(2)]

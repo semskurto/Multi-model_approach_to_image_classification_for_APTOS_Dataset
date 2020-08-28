@@ -17,7 +17,7 @@ Predicted was performed with the trained algorithm.
   ![View](https://github.com/semskurto/APTOS/blob/master/aptosReadme.png)
   
 Result:  
-Stability was increased by replacing batch normalization with group normalization previously in "effnet".  
+Stability was increased by replacing batch normalization with group normalization previously in Efficientnet.  
 https://arxiv.org/pdf/1803.08494.pdf  
 
 Training results are not stable at the desired level.  

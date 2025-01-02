@@ -1,4 +1,5 @@
-# Multi-model Approach to Image Classification for APTOS Dataset  https://www.kaggle.com/c/aptos2019-blindness-detection    
+# Multi-model Approach to Image Classification for APTOS Dataset  
+  https://www.kaggle.com/c/aptos2019-blindness-detection    
 Here I observed experimental situations to experience different approaches.  
 
 

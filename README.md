@@ -1,6 +1,6 @@
-# Multi-model Approach to Image Classification for APTOS Dataset  
-Here I observed experimental situations to experience different approaches.
-https://www.kaggle.com/c/aptos2019-blindness-detection  
+# Multi-model Approach to Image Classification for APTOS Dataset  https://www.kaggle.com/c/aptos2019-blindness-detection    
+Here I observed experimental situations to experience different approaches.  
+
 
 * STEP-1:  
 Used kernels(APTOS-01a,01b,01c,01d jupyter notebooks) for train models
